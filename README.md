@@ -11,8 +11,8 @@ The aim of this project was to create a web game using object oriented programin
 * JavaScript
 
 ## Page
-[Live Demo](https://sebastian-konicz.github.io/WeatherApp/)
+[Live Demo](https://sebastian-konicz.github.io/CheeseChase/)
 
 ## Page screenshot
-![Image](https://github.com/sebastian-konicz/WeatherApp/blob/master/WeatherApp.png)
+![Image](https://github.com/sebastian-konicz/CheeseChase/blob/master/CheeseChase.png)
 
