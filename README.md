@@ -1,21 +1,14 @@
-# Pogoda
-Minimalistic weather application using OpenWeatheMap API
+# CheeseChase
+Simple game created using object oriented programing (still in development stage).
 
 ## About
-This is the final project created during the JavaScript: React bootcamp. 
-The aim of this project was to create a fully functioning and responsive weather application that uses real time data provided via OpenWeaterMap API.
-
-## Features
-* Current weather data for any location including over 200,000 cities
-* Geolocalisation
-* 24h temperature chart
+This is the project created during the forth week of the JavaScript: React bootcamp. 
+The aim of this project was to create a web game using object oriented programing.
 
 ## Technologies used
-* React.js
-* SCSS
-* Chart.js
-* Geolocalisation
-* OpenWeatherMap API
+* HTML5
+* CSS
+* JavaScript
 
 ## Page
 [Live Demo](https://sebastian-konicz.github.io/WeatherApp/)
